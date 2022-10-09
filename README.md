@@ -5,11 +5,11 @@
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 
 ## Problem Statement and Dataset
-To develop a deep neural network for Malaria infected cell recognition and to analyze the performance. 
+To develop a deep neural network for Malaria infected cell recognition and to analyze the performance./n 
 Dataset:CellImage
 
 ## Neural Network Model
-![neural](https://user-images.githubusercontent.com/75235022/194769482-11936285-b671-4cae-92e7-c06436442859.png)
+![NN model exp 4](https://user-images.githubusercontent.com/75235022/194769535-ffbb797e-de42-4154-836f-b95d7fcd28dc.png)
 
 
 ## DESIGN STEPS
@@ -26,6 +26,8 @@ Fit the model using the augmented images
 
 ## PROGRAM
 ```python
+Name:A.Fawziya
+Reg No: 212220230017
 python3
 !git clone https://github.com/sherwin-roger/cellimage.git
 
