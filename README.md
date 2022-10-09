@@ -9,7 +9,8 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 Dataset:CellImage
 
 ## Neural Network Model
-![NN model exp 4](https://user-images.githubusercontent.com/75235022/194769535-ffbb797e-de42-4154-836f-b95d7fcd28dc.png)
+
+![NN model exp-4](https://user-images.githubusercontent.com/75235022/194769674-46c581f1-3aa8-4246-95c5-dbc5141d459d.png)
 
 
 ## DESIGN STEPS
