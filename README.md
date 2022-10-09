@@ -5,7 +5,7 @@
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 
 ## Problem Statement and Dataset
-To develop a deep neural network for Malaria infected cell recognition and to analyze the performance./n 
+To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
 Dataset:CellImage
 
 ## Neural Network Model
